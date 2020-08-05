@@ -1,7 +1,10 @@
 <div align="center">
   <h2><strong>🧑🏻 Hi! I'm Bruno Nascimento, 19yo</strong></h2>
   <h3><strong>🧑🏻‍💻 Fullstack developer and student at Rocketseat 🚀💜</strong></h3>
-  <img src="https://uploaddeimagens.com.br/imagens/oXH9yxw" width="200px" height="auto"/>
+  <!-- <img src="https://uploaddeimagens.com.br/imagens/oXH9yxw" width="200px" height="auto" alt="banner"/> -->
+
+  ![Banner](https://uploaddeimagens.com.br/imagens/oXH9yxw)
+  
   <h3><strong>🇧🇷 I'm from Brazil</strong></h3>
   <h3><strong>🏡 Living in Curitiba - Paraná</strong></h3>
   <h3><strong> 🕵🏻 You can find me on</strong></h3>
@@ -14,7 +17,7 @@
 </div>
 
 <div>
-  <h5 align="center">💁🏻 Explore my best projects</h5>
+  <h3 align="center">💁🏻 Explore my best projects</h3>
   
   <p align="center">
     <a href="#"
