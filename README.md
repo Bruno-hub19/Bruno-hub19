@@ -61,12 +61,6 @@
 <!-- LINKEDIN:START -->
 <!-- LINKEDIN:END -->
 
-- [GitHub explorer mobile - React Native | TypeScript](https://www.linkedin.com/posts/bruno-nascimento-35803217b_gostack-rocketseat-reactjs-activity-6686315338142900225-Qkej)
-
-- [API Data Mapper Pattern - TypeScript | NodeJs](https://www.linkedin.com/posts/bruno-nascimento-35803217b_typescript-nodejs-gostack-activity-6681282270709469184-U7TQ)
-
-- [Simple API - TypeScript | NodeJs](https://www.linkedin.com/posts/bruno-nascimento-35803217b_nodejs-javascript-fullstack-activity-6678693374733627392-somt)
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-hub19&layout=compact&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
