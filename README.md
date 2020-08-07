@@ -4,8 +4,6 @@
 
 ### I'm a Musician and Developer!
 
----
-
 🔭 I’m currently working on a [Personal Project][personal project]!
 
 🌱 I’m currently learning JavaScript Stack
