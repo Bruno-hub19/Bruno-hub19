@@ -10,7 +10,7 @@
 
 🥅 2020 Goals: Learn more about the JavaScript environment
 
-⚡ Fun fact: I love to play guitar / eletric guitar
+⚡ Fun fact: I love to play guitar / electric guitar
 
 </div>
 
