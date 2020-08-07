@@ -66,6 +66,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-hub19&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <img align="left" alt="Bruno Nascimento Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bruno-hub19&show_icons=true&hide_border=true&theme=dracula" />
 
 [personal project]: https://github.com/Bruno-hub19/goparking-mobile
