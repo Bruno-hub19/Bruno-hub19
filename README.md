@@ -51,11 +51,9 @@
 
 </div>
 
----
-
 <div align="center">
 
-### 💁 Latest Projects
+## 💁 Latest Projects
 
 [GoParking Mobile - React Native | TypeScript](https://github.com/Bruno-hub19/goparking-mobile)
 
@@ -67,11 +65,9 @@
 
 </div>
 
----
-
 <div align="center">
 
-### 📕 Latest LinkedIn Posts
+## 📕 Latest LinkedIn Posts
 
 [GitHub explorer mobile - React Native | TypeScript](https://www.linkedin.com/posts/bruno-nascimento-35803217b_gostack-rocketseat-reactjs-activity-6686315338142900225-Qkej)
 
@@ -81,11 +77,9 @@
 
 </div>
 
----
-
 <div align="center">
 
-### 🧑‍💻 Most used languages and stats
+## 🧑‍💻 Most used languages and stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-hub19&layout=compact&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
