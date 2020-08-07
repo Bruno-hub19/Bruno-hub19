@@ -58,6 +58,9 @@
 
 ### 📕 Latest LinkedIn Posts
 
+<!-- LINKEDIN:START -->
+<!-- LINKEDIN:END -->
+
 - [GitHub explorer mobile - React Native | TypeScript](https://www.linkedin.com/posts/bruno-nascimento-35803217b_gostack-rocketseat-reactjs-activity-6686315338142900225-Qkej)
 
 - [API Data Mapper Pattern - TypeScript | NodeJs](https://www.linkedin.com/posts/bruno-nascimento-35803217b_typescript-nodejs-gostack-activity-6681282270709469184-U7TQ)
