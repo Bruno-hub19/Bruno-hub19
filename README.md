@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruno Nascimento 👋
 
 ## I'm a Musician and Developer!
-- 🔭 I’m currently working on a Personal Project!
+- 🔭 I’m currently working on a [Personal Project][personal project]!
 - 🌱 I’m currently learning JavaScript Stack
 - 🥅 2020 Goals: Learn more about the JavaScript environment
 - ⚡ Fun fact: I love to play guitar / eletric guitar
@@ -45,17 +45,30 @@
 
 ---
 
+### 💁 Latest Projects
+
+- [GoParking Mobile - React Native | TypeScript](https://github.com/Bruno-hub19/goparking-mobile)
+
+- [GoParking Backend - TypeScript | NodeJs | TypeORM | Postgres | Docker](https://github.com/Bruno-hub19/goparking-backend)
+
+- [GitHub Explorer Mobile - React Native | TypeScript](https://github.com/Bruno-hub19/GitHub-explorer-mobile)
+
+- [GitHub Explorer web - ReactJs | TypeScript](https://github.com/Bruno-hub19/GitHub-explorer)
+---
+
 ### 📕 Latest LinkedIn Posts
-<!-- BLOG-POST-LIST:START -->
 
-<!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629) -->
+- [GitHub explorer mobile - React Native | TypeScript](https://www.linkedin.com/posts/bruno-nascimento-35803217b_gostack-rocketseat-reactjs-activity-6686315338142900225-Qkej)
 
-<!-- BLOG-POST-LIST:END -->
+- [API Data Mapper Pattern - TypeScript | NodeJs](https://www.linkedin.com/posts/bruno-nascimento-35803217b_typescript-nodejs-gostack-activity-6681282270709469184-U7TQ)
+
+- [Simple API - TypeScript | NodeJs](https://www.linkedin.com/posts/bruno-nascimento-35803217b_nodejs-javascript-fullstack-activity-6678693374733627392-somt)
 
 ---
 
 <img align="left" alt="Bruno Nascimento Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bruno-hub19&show_icons=true&hide_border=true" />
 
+[personal project]: https://github.com/Bruno-hub19/goparking-mobile
 [instagram]: https://instagram.com/brunofernasc19
 [facebook]: https://facebook.com/Bruno-Nascimento
 [linkedin]: https://www.linkedin.com/in/bruno-nascimento-35803217b/
