@@ -53,7 +53,7 @@
 
 <div align="center">
 
-## 💁 Latest Projects
+### 💁 Latest Projects
 
 [GoParking Mobile - React Native | TypeScript](https://github.com/Bruno-hub19/goparking-mobile)
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-## 🧑‍💻 Stats
+### 🧑‍💻 Stats
 
 <img align="center" alt="Bruno Nascimento Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bruno-hub19&show_icons=true&hide_border=true&theme=dracula" />
 
