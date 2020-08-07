@@ -66,7 +66,7 @@
 
 ---
 
-<img align="left" alt="Bruno Nascimento Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bruno-hub19&show_icons=true&hide_border=true" />
+<img align="left" alt="Bruno Nascimento Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bruno-hub19&show_icons=true&hide_border=true&theme=dracula" />
 
 [personal project]: https://github.com/Bruno-hub19/goparking-mobile
 [instagram]: https://instagram.com/brunofernasc19
