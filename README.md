@@ -5,13 +5,14 @@
 ## I'm a Musician and Developer!
 
 🔭 I’m currently working on a [Personal Project][personal project]!
+
 🌱 I’m currently learning JavaScript Stack
+
 🥅 2020 Goals: Learn more about the JavaScript environment
+
 ⚡ Fun fact: I love to play guitar / eletric guitar
 
 </div>
-
-<div align="center">
 
 ### Connect with me
 
@@ -49,8 +50,6 @@
 
 <br />
 <br />
-
-</div>
 
 ---
 
