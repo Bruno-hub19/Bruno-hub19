@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Bruno Nascimento 👋
+# Hi there, I'm Bruno 👋
 
-## I'm a Musician and Developer!
+### I'm a Musician and Developer!
+
+---
 
 🔭 I’m currently working on a [Personal Project][personal project]!
 
