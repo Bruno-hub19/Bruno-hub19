@@ -1,12 +1,19 @@
-### Hi there, I'm Bruno Nascimento 👋
+<div align="center">
+
+# Hi there, I'm Bruno Nascimento 👋
 
 ## I'm a Musician and Developer!
-- 🔭 I’m currently working on a [Personal Project][personal project]!
-- 🌱 I’m currently learning JavaScript Stack
-- 🥅 2020 Goals: Learn more about the JavaScript environment
-- ⚡ Fun fact: I love to play guitar / eletric guitar
 
-### Connect with me:
+🔭 I’m currently working on a [Personal Project][personal project]!
+🌱 I’m currently learning JavaScript Stack
+🥅 2020 Goals: Learn more about the JavaScript environment
+⚡ Fun fact: I love to play guitar / eletric guitar
+
+</div>
+
+<div align="center">
+
+### Connect with me
 
 [<img align="left" alt="Bruno | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 
@@ -16,7 +23,7 @@
 
 <br />
 
-### Stack and Tools:
+### Stack and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -43,6 +50,8 @@
 <br />
 <br />
 
+</div>
+
 ---
 
 ### 💁 Latest Projects
@@ -58,8 +67,11 @@
 
 ### 📕 Latest LinkedIn Posts
 
-<!-- LINKEDIN:START -->
-<!-- LINKEDIN:END -->
+- [GitHub explorer mobile - React Native | TypeScript](https://www.linkedin.com/posts/bruno-nascimento-35803217b_gostack-rocketseat-reactjs-activity-6686315338142900225-Qkej)
+
+- [API Data Mapper Pattern - TypeScript | NodeJs](https://www.linkedin.com/posts/bruno-nascimento-35803217b_typescript-nodejs-gostack-activity-6681282270709469184-U7TQ)
+
+- [Simple API - TypeScript | NodeJs](https://www.linkedin.com/posts/bruno-nascimento-35803217b_nodejs-javascript-fullstack-activity-6678693374733627392-somt)
 
 ---
 
@@ -67,7 +79,7 @@
 
 ---
 
-<img align="left" alt="Bruno Nascimento Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bruno-hub19&show_icons=true&hide_border=true&theme=dracula" />
+<img align="center" alt="Bruno Nascimento Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bruno-hub19&show_icons=true&hide_border=true&theme=dracula" />
 
 [personal project]: https://github.com/Bruno-hub19/goparking-mobile
 [instagram]: https://instagram.com/brunofernasc19
